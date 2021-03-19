@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+background-color: #232323;
+color: white;
+/* height: 100px; */
+overflow: auto;
+}
+.navbar{
+    list-style: none;
+    float: right;
+    color: red;
+}
+.titulo{
+    float: left;
+    margin: 0;
+    color: purple;
+}
+
+body .header .navbar li {
+    float: left;
+}
